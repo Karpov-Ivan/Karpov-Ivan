@@ -21,7 +21,7 @@
 <a href="https://github.com/Karpov-Ivan?tab=repositories&language=go" target="_blank"> <img src="https://skillicons.dev/icons?i=go"/></a>
 <a href="https://github.com/Karpov-Ivan?tab=repositories&language=c%23" target="_blank"> <img src="https://skillicons.dev/icons?i=cs"/></a>
 <a href="https://github.com/Karpov-Ivan?tab=repositories&language=python" target="_blank"> <img src="https://skillicons.dev/icons?i=python"/></a>
-<img src="https://skillicons.dev/icons?i=cpp,c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
 ### Frontend
 
