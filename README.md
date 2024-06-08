@@ -23,9 +23,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=ts"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css"/>
 
 ### Database
 
