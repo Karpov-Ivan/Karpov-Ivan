@@ -4,7 +4,7 @@
 
 * <h3 align="left">Backend Developer (C#) at <a href="https://qoollo.com/" >QOOLLO;</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(3rd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(4 year);</h3>
 
 * <h3 align="left"> Student of the <a href="https://education.vk.company/" >VK Technopark</a> "Web-developer" (10.2023-to this day);</h3>
 
