@@ -43,5 +43,5 @@
 
 <h3 align="left">Stats</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karpov-Ivan&show_icons=true&locale=en&layout=compact&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Karpov-Ivan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karpov-Ivan&show_icons=true&locale=en&layout=compact&hide=html,tex,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Karpov-Ivan" />
 </p>
