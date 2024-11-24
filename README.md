@@ -2,7 +2,9 @@
 
 <h3 align="left">About me</h3>
 
-* <h3 align="left">Backend Developer (C#) at <a href="https://qoollo.com/" >QOOLLO;</a> </h3>
+* <h3 align="left">Backend Developer (C#) at <a href="https://qoollo.com/" >QOOLLO</a> (08.2023-10.2024); </h3>
+
+* <h3 align="left">Backend Developer (Go) at <a href="https://career.avito.com/" >Avito</a>; </h3>
 
 * <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(4 year);</h3>
 
