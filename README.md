@@ -6,9 +6,9 @@
 
 * <h3 align="left">Backend Developer (Go) at <a href="https://career.avito.com/" >Avito</a>; </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(4 year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Bachelor SSH3(4 year);</h3>
 
-* <h3 align="left"> Student of the <a href="https://education.vk.company/" >VK Technopark</a> "Web-developer" (10.2023-to this day);</h3>
+* <h3 align="left"> Student of the <a href="https://education.vk.company/" >VK Technopark</a> "Web-developer" (10.2023-06.2025);</h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
